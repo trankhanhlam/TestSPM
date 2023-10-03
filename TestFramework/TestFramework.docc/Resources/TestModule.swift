@@ -9,4 +9,5 @@ import Foundation
 
 class TestModule {
     var testString = "TEST"
+    var testInt = 1000
 }
